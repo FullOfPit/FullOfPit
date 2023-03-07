@@ -2,8 +2,7 @@
 
 <!--
 **FullOfPit/FullOfPit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my RiskAssessment App EasyRisk and my StaffManagement App tobenoted!
 - 🌱 I’m currently learning that coding is like running experiments without a lab - how cool is that???
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me why pitbulls are the very best boys and girls. Though, that's obvious anyway, isn't it?
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Did you know that green beans are actually pretty toxic when you eat them raw? Well I didn't and found out the hard way... *Lessons were learnt that day*
--->
+
