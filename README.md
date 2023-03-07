@@ -1,4 +1,6 @@
-### Hi there 👋
+### Well, Hello there! This is FullOfPit's GitHub Page... Who would have thought?
+
+<h6>Unfortunately, I'm a rather elusive one so I can't tell you my name unless you already know me. Perhaps a treat might change my mind?</h6>
 
 <!--
 **FullOfPit/FullOfPit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
