@@ -1,7 +1,7 @@
 ### Well, Hello there! This is FullOfPit's GitHub Page... Who would have thought?
 
 <h5>Unfortunately, I'm a rather elusive one so I can't tell you too much about me unless you already know me. Perhaps a treat might change my mind?</h5>
-<h6>And just FYI: this page follows a strick Trick-Or-Treat policy.</h6>
+<h6>And just FYI: this page follows a strick Treat-Or-Trick policy.</h6>
 
 <!--
 **FullOfPit/FullOfPit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
